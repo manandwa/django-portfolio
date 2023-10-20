@@ -14,3 +14,5 @@ Run `python manage.py runserver`
 The admin credintials are for testing only do not use in production!
 <br>
 Note: if using Anaconda run Visual Studio Code from the navigator while the virtual environment is activated in your terminal
+<br>
+Updated base.html template to use bootstrap navigation menu using boostrap docs and footer using jinja2 docs
